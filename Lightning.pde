@@ -1,4 +1,4 @@
-int startX=200;
+int startX=150;
 int startY=10;
 int endX=150;
 int endY=0;
